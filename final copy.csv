@@ -1,0 +1,2 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,VideoPath,AudioPath,Label
+66,Good job Joe! Well done! Top notch!,Chandler,joy,positive,6,0,8,22,"00:12:24,315","00:12:27,526",/home/klad/Desktop/Friends/Friends_Clips/video/S08E22_D6_U0.mkv,/home/klad/Desktop/Friends/Friends_Clips/audio/S08E22_D6_U0.wav,neutral
